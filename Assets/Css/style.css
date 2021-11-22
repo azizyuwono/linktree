@@ -4,7 +4,7 @@
 
 body {
     font-family: 'PT sans Narrow', sans-serif;
-    background: linear-gradient(to right, #E4D8DC, #FFE3E3);
+    background: linear-gradient(to right, #6166B3, #544179);
 }
 
 .box {
@@ -50,7 +50,7 @@ body {
 
 .social-link {
    display: grid;
-   gap: .875rem;
+   gap: 1.3rem;
 }
 .link {
     padding: 0 1rem;
@@ -72,6 +72,7 @@ body {
     background-color: #4B6587;
     color: #fff;
     transform: scale(1.1);
+    font-weight: 600;
 }
 .copy {
     text-align: center;
